@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    /* background-image: url('https://www.bing.com/ck/a?!&&p=8f8adf463f85af26JmltdHM9MTY4MDQ4MDAwMCZpZ3VpZD0xMGVjZjhhYy0xODczLTY1ZDMtMTZkOC1mN2RiMWM3MzYzZmUmaW5zaWQ9NTUyNA&ptn=3&hsh=3&fclid=10ecf8ac-1873-65d3-16d8-f7db1c7363fe&u=a1L2ltYWdlcy9zZWFyY2g_cT1Mb2dpbiUyMEJhY2tncm91bmQmRk9STT1JUUZSQkEmaWQ9MTYxQzcwNzg5QkRGMzEyNjM1RDIyMTMyNTdCN0RCNzJFNEQ2NTEzNA&ntb=1'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.center-div{
+    padding-top: 10%;
+}
+
+.btn.btn-success{
+    padding: .4em 2em;
+}
+
+form{
+    padding: 0 3em;
+}
+
+#login .title > span{
+    font-size: .8em;
+}
